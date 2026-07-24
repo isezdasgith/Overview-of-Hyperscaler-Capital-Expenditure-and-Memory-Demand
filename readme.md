@@ -10,7 +10,7 @@ As hyperscalers (Microsoft, Amazon, Meta, Google, Oracle) ramp capital expenditu
 
 - **Nvidia revenue** — Quarterly revenue by segment (Data Centers and AI vs. Gaming/Devices/Automotive), 2014–2026, combining a long-run historical series with recent quarterly filings. https://ourworldindata.org/grapher/nvidia-quarterly-revenue-segment?time=earliest..2026-04-26
 
-- **Micron financials** — DRAM revenue, NAND revenue, and gross margin, Q1 2025–Q1 2026 (calendar-aligned), sourced from Micron's 10-Q filings and earnings press releases. https://www.macrotrends.net/stocks/stock-screener
+- **Micron financials** — DRAM revenue, NAND revenue, and gross margin, Q1 2025–Q1 2026 (calendar-aligned), sourced from Micron's 10-Q filings and earnings press releases. https://investors.micron.com/quarterly-results
 
 - **DRAM market share** — Quarterly DRAM supplier market share (Samsung, SK Hynix, Micron, CXMT, Nanya), sourced from Counterpoint Research, used as supporting context. https://counterpointresearch.com/en/insights/global-dram-and-hbm-market-share
 
