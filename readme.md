@@ -1,4 +1,4 @@
-# Overview of Hyperscaler Capital Expenditure and Memory Demand
+# Hyperscaler Capital Expenditure and GPU/Memory Demand: An Exploratory Analysis
 
 ## Research Question
 
